@@ -156,6 +156,18 @@ deals:
     source: vendor
     notes: "Formerly WiFiChallenge Academy. Code auto-applied at checkout. Submitted by a course instructor."
     last_checked: 2026-11-19
+
+  - vendor: CyberDefenders
+    category: certification
+    offer: "Flash sale on SOC / blue team / DFIR certifications: Certified CyberDefender Level 1 and Level 2"
+    certs: [CCDL1, CCDL2]
+    discount: "20% off — CCDL1 $600 → $480, CCDL2 $1,700 → $1,360"
+    code: ""
+    ends: 2026-11-23
+    url: https://cyberdefenders.org/certifications/certified-cyberdefender-level1/
+    source: vendor
+    notes: "Announced on CyberDefenders' LinkedIn page. Discount applied automatically at checkout; buy now and start later. Ends Nov 23, 23:59 UTC. CCDL2: https://cyberdefenders.org/certifications/certified-cyberdefender-level2/"
+    last_checked: 2026-11-22
     
   # ───────────────────────────── Training & courses ─────────────────────────────
 
@@ -464,16 +476,6 @@ deals:
     source: third-party
     expected: true
     last_year: "15% off all courses with code blackfriday15 (ended Dec 10, 2025)"
-    last_checked: 2026-11-16
-
-  - vendor: CyberDefenders
-    category: labs
-    offer: Blue team labs + CCD certification
-    certs: [CCD]
-    discount: "TBA"
-    url: https://cyberdefenders.org/
-    source: third-party
-    expected: true
     last_checked: 2026-11-16
 
   - vendor: EC-Council
